@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">database</string>
+    <string name="action_settings">Settings</string>
+    <string name="tower">観光</string>
+    <string name="inside">室内</string>
+    <string name="cs">コンビニ</string>
+    <string name="ticket">改札</string>
+    <string name="atm">ATM</string>
+    <string name="toilet">トイレ</string>
+    <string name="textview">待ち合わせ場所の条件を指定してください</string>
+</resources>
